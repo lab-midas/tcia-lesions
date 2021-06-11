@@ -1,0 +1,5 @@
+# python 3.7.9
+torch==1.8.1
+torchvision==0.9.1
+nibabel==3.2.1
+jupyter
